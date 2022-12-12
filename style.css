@@ -24,7 +24,6 @@ body {
   font-family: "Inter", sans-serif;
   color: #343a40;
   border-bottom: 8px solid #087f5b;
-  margin:70px;
 }
 header,
 section {
@@ -209,6 +208,7 @@ footer {
 }
 @media only screen and (max-width: 600px) {
   body {
-    width: 60%;
+    margin: 0px auto;
+    width:300px;
   }
 }

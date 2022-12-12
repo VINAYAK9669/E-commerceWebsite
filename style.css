@@ -24,6 +24,7 @@ body {
   font-family: "Inter", sans-serif;
   color: #343a40;
   border-bottom: 8px solid #087f5b;
+  margin:12px;
 }
 header,
 section {
